@@ -15,7 +15,7 @@
 | Listiananda Apriliawan | Nanda | @naandalist | ...    | Technical Lead, Full Stack  |
 | Lee Obby Waqoz         | Obby  | @leeobby    | ...    | Co-Technical Lead, Frontend |
 | Ananda Puja Wandra     | Puja  | @anandapuja | ...    | Backend                     |
-| Yuriko                 | Yurik | @yurikdev   | ...    | Full Stack                  |
+| Yu Riko                | Yurik | @yurikdev   | ...    | Full Stack                  |
 
 ## 🔗 Links
 
