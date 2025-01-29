@@ -1,21 +1,26 @@
-# 🍽️ FeastFind
+# FeastFind 🍽️
 
-**FeastFind** is a social media platform for restaurants & cafes to share their foods & beverages to reviews, for people to discover new places to eat.
+### Find & Explore the Best Local Restaurants
 
-## 🌟 Features
+**FeastFind** is a food discovery platform that helps users find local restaurants, browse menus, view ratings, and navigate to places with ease.
 
-- ...
-- ...
-- ...
+## 🚀 Features
+
+- 🔍 **Restaurant Search & Discovery** – Find nearby restaurants based on location, cuisine, and user ratings.
+- 📖 **Detailed Restaurant Information** – View restaurant details, including menus, pricing, opening hours, and facilities.
+- ⭐ **User Reviews & Ratings** – Check real user reviews and leave your own feedback.
+- 🗺️ **Interactive Map Navigation** – Locate restaurants on an interactive map for easy directions.
+- ❤️ **Personalized Experience** – Save favorite restaurants and get tailored recommendations.
+- 👥 **Community Contributions** – Users can add new restaurants and share their experiences.
 
 ## 🤝 Team
 
-| Full Name              | Nick  | Telegram    | GitHub | Role                        |
-| ---------------------- | ----- | ----------- | ------ | --------------------------- |
-| Listiananda Apriliawan | Nanda | @naandalist | ...    | Technical Lead, Full Stack  |
-| Lee Obby Waqoz         | Obby  | @leeobby    | ...    | Co-Technical Lead, Frontend |
-| Ananda Puja Wandra     | Puja  | @anandapuja | ...    | Backend                     |
-| Yu Riko                | Yurik | @yurikdev   | ...    | Full Stack                  |
+| Full Name              | Nick  | Telegram    | GitHub                                 | Role       |
+| ---------------------- | ----- | ----------- | -------------------------------------- | ---------- |
+| Ananda Puja Wandra     | Puja  | @anandapuja | [view](https://github.com/anandapuja)  | Full Stack |
+| Yu Riko                | Yurik | @yurikdev   | [view](https://github.com/yurikdotdev) | Full Stack |
+| Lee Obby               | Obby  | @leeobby    | [view](https://github.com/obbylee)     | Frontend   |
+| Listiananda Apriliawan | Nanda | @naandalist | [view](https://github.com/Naandalist)  | Frontend   |
 
 ## 🔗 Links
 
@@ -32,9 +37,9 @@ Repositories:
 ## 🔎 Inspirations
 
 - [PergiKuliner](https://pergikuliner.com)
-- ...
-- ...
+- [CheckCafe](https://checkcafe.com/)
+- [Horego](https://www.horego.com/)
 
 ## 🎨 UI Designs
 
-Look at [Figma](https://figma.com/.....)
+Look at [Figma](https://www.figma.com/proto/LUjX9OgTFwaCAOrDcICjLq/FeastFind.com?node-id=29-9&t=77BW1WuUamECquOb-1)
